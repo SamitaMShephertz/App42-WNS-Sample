@@ -1,0 +1,78 @@
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\MainPage.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.xr.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.exe
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.pdb
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\resources.pri
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\AppxManifest.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.build.appxrecipe
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WINDOWS-SDK-1.1.dll
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WINDOWS-SDK-1.1.pdb
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WINDOWS-SDK-1.1.pri
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.csprojResolveAssemblyReference.cache
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.g.i.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.g.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.g.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.xaml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.xaml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.exe
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.pdb
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.csproj.GenerateResource.Cache
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\priconfig.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\layout.resfiles
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\resources.resfiles
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\pri.resfiles
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\qualifiers.txt
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WINDOWS-SDK-1.1.pri.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App.xbf
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\MainPage.xbf
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.xr.xml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.exe
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.pdb
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\resources.pri
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\AppxManifest.xml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.build.appxrecipe
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WINDOWS-SDK-1.1.dll
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WINDOWS-SDK-1.1.pdb
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WINDOWS-SDK-1.1.pri
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.csprojResolveAssemblyReference.cache
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.g.i.cs
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.g.cs
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.g.i.cs
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.g.cs
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.xaml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.xaml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App.xbf
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MainPage.xbf
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.exe
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.pdb
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WNS-Sample.Windows.csproj.GenerateResource.Cache
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\priconfig.xml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\layout.resfiles
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\resources.resfiles
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\pri.resfiles
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\qualifiers.txt
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\App42-WINDOWS-SDK-1.1.pri.xml
+D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\ProjectArchitectures.txt

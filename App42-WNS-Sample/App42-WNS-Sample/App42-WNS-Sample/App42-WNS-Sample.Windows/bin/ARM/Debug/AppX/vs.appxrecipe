@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AKSHAY-PC</Machine>
+    <WindowsUser>App42Admin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>60642ShephertzApp42Platfo.samitaTest</PackageIdentityName>
+    <IntermediateOutputPath>D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FBD0CEF2D1D4185D30BC3A4AB0CDDF62BB67B2A8984E67ECBD6F438274575C74</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-08T07:01:47.201</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.exe">
+      <PackagePath>App42-WNS-Sample.Windows.exe</PackagePath>
+      <Modified>2016-03-08T09:53:18.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\%40KSH%40Y\%40GITHUB_API\WINDOWS_METRO\App42_WinRT_API\bin\Release\App42-WINDOWS-SDK-1.1.dll">
+      <PackagePath>App42-WINDOWS-SDK-1.1.dll</PackagePath>
+      <Modified>2015-11-05T09:29:22.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\%40KSH%40Y\%40GITHUB_API\WINDOWS_METRO\App42_WinRT_API\bin\Release\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-03-10T08:44:48.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-03T12:12:52.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-03T12:12:52.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-03T12:12:52.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-03T12:12:52.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-08T07:01:46.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-08T07:01:46.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.xr.xml">
+      <PackagePath>App42-WNS-Sample.Windows.xr.xml</PackagePath>
+      <Modified>2016-03-08T07:01:46.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-08T07:01:46.848</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

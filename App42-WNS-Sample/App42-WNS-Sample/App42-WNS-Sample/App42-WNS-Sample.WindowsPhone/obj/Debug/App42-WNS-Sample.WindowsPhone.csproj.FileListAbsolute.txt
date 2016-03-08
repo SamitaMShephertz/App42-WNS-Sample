@@ -1,0 +1,78 @@
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.g.cs
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.xaml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.xbf
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App.xbf
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.xr.xml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.exe
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.pdb
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\resources.pri
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.build.appxrecipe
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WINDOWS-SDK-1.1.dll
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WINDOWS-SDK-1.1.pdb
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WINDOWS-SDK-1.1.pri
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.csprojResolveAssemblyReference.cache
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.exe
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.pdb
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.csproj.GenerateResource.Cache
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WINDOWS-SDK-1.1.pri.xml
+c:\users\sushi_000\documents\visual studio 2013\Projects\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.xr.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.exe
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.pdb
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\resources.pri
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WNS-Sample.WindowsPhone.build.appxrecipe
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WINDOWS-SDK-1.1.dll
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WINDOWS-SDK-1.1.pdb
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\bin\Debug\App42-WINDOWS-SDK-1.1.pri
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.xaml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.exe
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.pdb
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WNS-Sample.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\App42-WINDOWS-SDK-1.1.pri.xml
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\obj\Debug\ProjectArchitectures.txt

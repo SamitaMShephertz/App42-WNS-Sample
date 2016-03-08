@@ -1,0 +1,1 @@
+C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.WindowsPhone\App42-WNS-Sample.WindowsPhone.csproj;arm
