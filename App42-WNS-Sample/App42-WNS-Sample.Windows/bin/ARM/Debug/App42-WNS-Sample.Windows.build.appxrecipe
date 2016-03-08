@@ -7,16 +7,16 @@
     <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>60642ShephertzApp42Platfo.samitaTest</PackageIdentityName>
-    <IntermediateOutputPath>D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\obj\ARM\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.exe">
       <PackagePath>App42-WNS-Sample.Windows.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\%40KSH%40Y\%40GITHUB_API\WINDOWS_METRO\App42_WinRT_API\bin\Release\App42-WINDOWS-SDK-1.1.dll">
@@ -25,32 +25,32 @@
     <AppxPackagedFile Include="D:\%40KSH%40Y\%40GITHUB_API\WINDOWS_METRO\App42_WinRT_API\bin\Release\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\App42-WNS-Sample.Windows.xr.xml">
       <PackagePath>App42-WNS-Sample.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Samita\WNS Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\App42Admin\Downloads\App42-WinRT-Samples-master\App42-WinRT-Samples-master\App42-WNS-Sample\App42-WNS-Sample\App42-WNS-Sample.Windows\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
